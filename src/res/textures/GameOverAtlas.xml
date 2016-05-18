@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:1d8b1907211b4aad8051187f77f040bc$ -->
+<TextureAtlas imagePath="GameOverAtlas.png">
+    <SubTexture name="gameover_hp_1" x="2" y="2" width="749" height="278"/>
+    <SubTexture name="gameover_hp_2" x="2" y="823" width="454" height="353" frameX="0" frameY="-1" frameWidth="462" frameHeight="355"/>
+    <SubTexture name="gameover_speed_1" x="2" y="282" width="744" height="539" frameX="-1" frameY="0" frameWidth="746" frameHeight="539"/>
+</TextureAtlas>

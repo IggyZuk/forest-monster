@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:0c9c5ccef80261ee39809ef0e15d8b69$ -->
+<TextureAtlas imagePath="CutsceneAtlas.png">
+    <SubTexture name="cutscene_begin_1" x="2" y="2" width="715" height="394" frameX="0" frameY="-1" frameWidth="715" frameHeight="396"/>
+    <SubTexture name="cutscene_begin_2" x="631" y="398" width="347" height="409"/>
+    <SubTexture name="cutscene_begin_3" x="2" y="398" width="627" height="433" frameX="-1" frameY="0" frameWidth="629" frameHeight="433"/>
+    <SubTexture name="cutscene_begin_4" x="2" y="833" width="507" height="469"/>
+</TextureAtlas>

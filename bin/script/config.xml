@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<game name="chicken boss - build 30"/>
+	<state transition="easeInOut" speed="0.3"/>
+</config>

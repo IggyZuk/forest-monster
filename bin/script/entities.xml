@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entities gravity="1.8" jump="15">
+	<entity name="Peasant" speed="0.5"/>
+	<entity name="Flying Knight" speed="4"/>
+	<entity name="Horse Knight" speed="3"/>
+	<entity name="Horse Aracher" speed="2"/>
+	<entity name="FishFairy" speed="2.75"/>
+	<entity name="King" speed="0.5"/>
+	<entity name="Chicken" speed="1"/>
+</entities>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Gym buyables, id has to be unique across all upgrades, icon is a valid name from guiatlas xml -->
+<gym x="250" y="100" color="0xDB2E18" thickness="7" bounce="5" speed="0.2">
+	<node id="10" title="health 1" desc="increases monster's hearts to a total of 4 hearts" cost="1" icon="node_hp_1" x="0" y="0">
+		<node id="11" title="health 2" desc="increases monster's hearts to a total of 6 hearts" cost="1" icon="node_hp_2" x="0" y="100">
+			<node id="12" title="health 3" desc="increases monster's hearts to a total of 9 hearts" cost="2" icon="node_hp_3" x="0" y="200"/>
+		</node>
+	</node>
+</gym>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<monsters>
+	<monster 
+		start_health="12"
+		start_speed="4"
+		max_speed="40"
+		add_speed="0.009"
+		max_stamina="200"
+		add_stamina="0.25"
+		range="220"
+		
+		x_pos = "10"
+		y_pos = "480"
+		x_motion = "3"
+		y_motion = "0.8"
+		body_rotation = "0.08"
+		face_motion = "0.1"
+	/>
+</monsters>

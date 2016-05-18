@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:7bc2d563ae738e794be3165994ef99aa$ -->
+<TextureAtlas imagePath="GuiAtlas.png">
+    <SubTexture name="back_to_map" x="323" y="28" width="51" height="59" frameX="-1" frameY="0" frameWidth="53" frameHeight="59"/>
+    <SubTexture name="button_mute_0" x="65" y="2" width="19" height="19"/>
+    <SubTexture name="button_mute_1" x="44" y="2" width="19" height="19"/>
+    <SubTexture name="button_pause_0" x="23" y="2" width="19" height="19"/>
+    <SubTexture name="button_pause_1" x="2" y="2" width="19" height="19"/>
+    <SubTexture name="chest" x="299" y="109" width="149" height="138" frameX="-20" frameY="-7" frameWidth="191" frameHeight="156"/>
+    <SubTexture name="coin_gold" x="943" y="2" width="54" height="45" frameX="-1" frameY="-2" frameWidth="62" frameHeight="49"/>
+    <SubTexture name="coin_normal" x="451" y="2" width="48" height="29" frameX="-9" frameY="-8" frameWidth="62" frameHeight="49"/>
+    <SubTexture name="heart_fairy" x="870" y="49" width="147" height="85"/>
+    <SubTexture name="hp_heart_1" x="613" y="2" width="54" height="44" frameX="-1" frameY="-1" frameWidth="56" frameHeight="46"/>
+    <SubTexture name="hp_heart_2" x="557" y="2" width="54" height="44" frameX="-1" frameY="0" frameWidth="56" frameHeight="46"/>
+    <SubTexture name="hp_heart_3" x="669" y="2" width="52" height="44" frameX="-3" frameY="-1" frameWidth="56" frameHeight="46"/>
+    <SubTexture name="hp_heart_4" x="2" y="23" width="52" height="46" frameX="-4" frameY="0" frameWidth="56" frameHeight="46"/>
+    <SubTexture name="hp_heart_5" x="501" y="2" width="54" height="42" frameX="-2" frameY="-3" frameWidth="56" frameHeight="46"/>
+    <SubTexture name="kmhm" x="56" y="28" width="46" height="50" frameX="0" frameY="-1" frameWidth="46" frameHeight="56"/>
+    <SubTexture name="long_cat" x="789" y="48" width="79" height="83"/>
+    <SubTexture name="map_gym_button" x="2" y="249" width="309" height="236"/>
+    <SubTexture name="map_gym_button_text" x="565" y="48" width="105" height="64"/>
+    <SubTexture name="map_play_button" x="399" y="557" width="361" height="285"/>
+    <SubTexture name="map_play_button_text" x="184" y="28" width="137" height="55"/>
+    <SubTexture name="map_shop_button" x="2" y="557" width="395" height="274"/>
+    <SubTexture name="map_shop_button_text" x="102" y="85" width="195" height="95"/>
+    <SubTexture name="new_item_sign" x="104" y="28" width="78" height="54" frameX="-1" frameY="-1" frameWidth="80" frameHeight="56"/>
+    <SubTexture name="node_hp_1" x="502" y="48" width="61" height="61"/>
+    <SubTexture name="node_hp_2" x="439" y="46" width="61" height="61"/>
+    <SubTexture name="node_hp_3" x="376" y="28" width="61" height="61"/>
+    <SubTexture name="scroll_box" x="2" y="844" width="470" height="550"/>
+    <SubTexture name="scroll_buy" x="672" y="48" width="115" height="74"/>
+    <SubTexture name="shop_button" x="2" y="80" width="98" height="98" frameX="-5" frameY="-4" frameWidth="108" frameHeight="108"/>
+    <SubTexture name="stamina_bar_left" x="291" y="2" width="158" height="24"/>
+    <SubTexture name="stamina_bar_mid" x="246" y="2" width="43" height="24"/>
+    <SubTexture name="stamina_bar_right" x="86" y="2" width="158" height="24"/>
+    <SubTexture name="title_credits_button" x="716" y="136" width="289" height="268"/>
+    <SubTexture name="title_options_button" x="450" y="124" width="264" height="188"/>
+    <SubTexture name="title_play_button" x="313" y="314" width="373" height="241"/>
+    <SubTexture name="warning_beehive" x="888" y="2" width="53" height="44" frameX="-1" frameY="0" frameWidth="55" frameHeight="44"/>
+    <SubTexture name="warning_log" x="833" y="2" width="53" height="44" frameX="-1" frameY="0" frameWidth="55" frameHeight="44"/>
+    <SubTexture name="warning_shrub" x="778" y="2" width="53" height="44" frameX="-1" frameY="0" frameWidth="55" frameHeight="44"/>
+    <SubTexture name="warning_wall" x="723" y="2" width="53" height="44" frameX="-1" frameY="0" frameWidth="55" frameHeight="44"/>
+</TextureAtlas>

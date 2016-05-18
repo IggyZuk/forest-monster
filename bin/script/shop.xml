@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Shop buyables, id has to be unique across all upgrades, icon is a valid name from guiatlas xml -->
+<shop x="250" y="400">
+	<buyable id="1" title="heart fairy" desc="awesome for healing the monster" cost="250" icon="heart_fairy" x="0" y="0"/>
+	<buyable id="2" title="long cat is long" desc="having a hard time reaching some distant places?" cost="1337" icon="long_cat" x="100" y="0"/>
+	<buyable id="3" title="the buy sign" desc="buy this amazing sign, it will let do you do pretty amazing shit i'm sure about it..." cost="10000" icon="scroll_buy" x="200" y="0"/>
+	<buyable id="4" title="coin of hope" desc="the coin of hope sure sounds awesome, and i can assure you it does something awesome, buy now and find out what it actually does!" cost="999" icon="node_hp_3" x="300" y="0"/>
+</shop>

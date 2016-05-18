@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projectiles>
+	<projectile name="Arrow" gravity="1" start_angle="-115" start_speed="60" slow_factor="0.15"/>
+</projectiles>

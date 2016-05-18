@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:ce1cd2078ec281b4fb08b734ff02522b$ -->
+<TextureAtlas imagePath="MonsterAtlas.png">
+    <SubTexture name="body_attack" x="2" y="514" width="207" height="334" frameX="-22" frameY="0" frameWidth="239" frameHeight="336"/>
+    <SubTexture name="body_bottom" x="2" y="2" width="541" height="158" frameX="0" frameY="0" frameWidth="541" frameHeight="164"/>
+    <SubTexture name="body_normal" x="251" y="285" width="217" height="334" frameX="-21" frameY="0" frameWidth="239" frameHeight="336"/>
+    <SubTexture name="face_attack_air_left" x="211" y="621" width="140" height="122" frameX="-22" frameY="-31" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="face_attack_air_right" x="72" y="850" width="68" height="164" frameX="-61" frameY="-13" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="face_attack_ground_left" x="142" y="850" width="146" height="122" frameX="-18" frameY="-41" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="face_attack_ground_right" x="2" y="850" width="68" height="164" frameX="-63" frameY="-15" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="face_hurt_1" x="353" y="621" width="112" height="116" frameX="-45" frameY="-32" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="face_hurt_2" x="290" y="849" width="124" height="116" frameX="-33" frameY="-32" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="face_normal" x="211" y="745" width="132" height="102" frameX="-21" frameY="-34" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="face_wtf" x="345" y="745" width="134" height="92" frameX="-23" frameY="-43" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="paw_attack_air_left_1" x="470" y="315" width="201" height="73" frameX="-20" frameY="-67" frameWidth="277" frameHeight="211"/>
+    <SubTexture name="paw_attack_air_left_2" x="2" y="162" width="269" height="75" frameX="-5" frameY="-74" frameWidth="277" frameHeight="211"/>
+    <SubTexture name="paw_attack_air_left_3" x="2" y="362" width="213" height="61" frameX="-2" frameY="-72" frameWidth="277" frameHeight="211"/>
+    <SubTexture name="paw_attack_air_right_1" x="816" y="166" width="201" height="73" frameX="-17" frameY="-62" frameWidth="277" frameHeight="211"/>
+    <SubTexture name="paw_attack_air_right_2" x="545" y="2" width="277" height="77" frameX="0" frameY="-73" frameWidth="277" frameHeight="211"/>
+    <SubTexture name="paw_attack_air_right_3" x="816" y="101" width="203" height="63" frameX="-6" frameY="-73" frameWidth="277" frameHeight="211"/>
+    <SubTexture name="paw_attack_ground_left_1" x="545" y="81" width="269" height="149" frameX="-6" frameY="-16" frameWidth="277" frameHeight="211"/>
+    <SubTexture name="paw_attack_ground_left_2" x="2" y="239" width="247" height="121" frameX="-15" frameY="-46" frameWidth="277" frameHeight="211"/>
+    <SubTexture name="paw_attack_ground_right_1" x="545" y="81" width="269" height="149" frameX="-6" frameY="-16" frameWidth="277" frameHeight="211"/>
+    <SubTexture name="paw_attack_ground_right_2" x="273" y="162" width="247" height="121" frameX="-15" frameY="-46" frameWidth="277" frameHeight="211"/>
+    <SubTexture name="paw_walk_left_1" x="759" y="314" width="225" height="71" frameX="-25" frameY="-71" frameWidth="277" frameHeight="211"/>
+    <SubTexture name="paw_walk_left_2" x="2" y="425" width="211" height="87" frameX="-33" frameY="-71" frameWidth="277" frameHeight="211"/>
+    <SubTexture name="paw_walk_left_3" x="467" y="621" width="185" height="87" frameX="-45" frameY="-70" frameWidth="277" frameHeight="211"/>
+    <SubTexture name="paw_walk_right_1" x="759" y="241" width="235" height="71" frameX="-26" frameY="-72" frameWidth="277" frameHeight="211"/>
+    <SubTexture name="paw_walk_right_2" x="522" y="232" width="235" height="81" frameX="-16" frameY="-76" frameWidth="277" frameHeight="211"/>
+    <SubTexture name="paw_walk_right_3" x="824" y="2" width="193" height="97" frameX="-42" frameY="-60" frameWidth="277" frameHeight="211"/>
+</TextureAtlas>

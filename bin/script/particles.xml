@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<particles>
+	<particle name="Smoke" life="30" life_random="10" angle="20" angle_add="0.9" scale="1" scale_add="0.025"/>
+	<particle name="Feather" gravity="3" velocity_x="0.05" angle_speed="2" slow_factor="2.5"/>
+	<particle name="Debris" movement="10" movement_random="75" gravity="0.9" velocity_x="60" velocity_y="60" angle_add="100"/>
+	<particle name="HeavyDebris" movement="30" movement_random="10" gravity="1.1" velocity_x="30" velocity_y="20" angle_add="0.1"/>
+	<particle name="SmokeDebris" smoke_add_speed="3" smoke_add_random="10"/>
+	<particle name="WhiteLife" gravity="1.25" velocity_x="8" velocity_y="8"/>
+</particles>
